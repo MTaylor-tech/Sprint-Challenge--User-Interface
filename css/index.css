@@ -233,6 +233,10 @@ header nav a:last-child {
 	margin-top: 20px;
 }
 
+.last-about {
+	margin-bottom: 10px;
+}
+
 footer {
     width: 100%;
     background: black;
