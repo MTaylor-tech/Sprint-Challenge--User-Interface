@@ -379,4 +379,9 @@ label:after {
 	.bottom-content .text-container {
 		margin-bottom: 20px;
 	}
+
+	.cf-div {
+		width: 98%;
+		margin: 5px;
+	}
 }
