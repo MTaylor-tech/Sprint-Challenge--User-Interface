@@ -11,13 +11,13 @@ In 3 hours:
 
 [The design document for the about page](/design-files/about.png)
 
-[The webpage](index.html)
+[The webpage](site/index.html)
 
-[The about page](about.html)
+[The about page](site/about.html)
 
 ### Stretch Challenges
 
 * Build a contact page and create a form with several inputs of your choosing
 * Add responsive breakpoints to your code by using media queries
 
-[The stretch challenge contact page I created](contact.html)
+[The stretch challenge contact page I created](site/contact.html)
